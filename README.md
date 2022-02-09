@@ -6,6 +6,8 @@ Create react app with redux template
 
 [Redux](https://redux.js.org/introduction/getting-started/)
 
+[Undocumented Reddit JSON API](https://github.com/reddit-archive/reddit/wiki/JSON)
+
 ## Available Scripts
 
 In the project directory, you can run:
